@@ -29,7 +29,7 @@ Ce projet a pour objectif d’analyser et de visualiser les prix des carburants 
 - **MongoDB** (stockage des données structurées)
 - **Leaflet.js** (carte interactive avec OpenStreetMap)
 - **HTML/CSS** (interface web simple)
-- **PowerPoint** (support de présentation)
+
 
 ---
 
