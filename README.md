@@ -43,6 +43,9 @@ Assure-toi d’avoir MongoDB installé et en cours d’exécution.
 
 ```bash
 python analyse_carburant.py
+````
+
+
 ![Capture d'écran 2025-06-03 000107](https://github.com/user-attachments/assets/b7c5976d-d65a-48ee-bbe6-42ac9e827a8b)
 ![Capture d'écran 2025-06-03 000244](https://github.com/user-attachments/assets/af0b6bc8-8953-415c-84af-489212d11d59)
 ![Capture d'écran 2025-06-03 000338](https://github.com/user-attachments/assets/78655ed4-1b69-44ad-8d63-2312c742e64c)
