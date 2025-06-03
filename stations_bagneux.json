@@ -1,0 +1,4266 @@
+[
+  {
+    "id": 94700005,
+    "ville": "Maisons-Alfort",
+    "adresse": "5 Avenue Léon Blum",
+    "cp": "94700",
+    "latitude": 48.802,
+    "longitude": 2.436,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.598,
+        "maj": "2025-05-29 06:51:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.718,
+        "maj": "2025-05-29 06:51:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.788,
+        "maj": "2025-05-29 06:51:00"
+      }
+    ],
+    "services": [],
+    "distance_km": 9.46
+  },
+  {
+    "id": 92100015,
+    "ville": "Boulogne-Billancourt",
+    "adresse": "108 Av.A Morizet",
+    "cp": "92100",
+    "latitude": 48.84,
+    "longitude": 2.231,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.709,
+        "maj": "2025-06-02 00:01:00"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.789,
+        "maj": "2025-06-02 00:01:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.809,
+        "maj": "2025-06-02 00:01:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.919,
+        "maj": "2025-06-02 00:01:00"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Wifi"
+    ],
+    "distance_km": 7.45
+  },
+  {
+    "id": 91430003,
+    "ville": "Igny",
+    "adresse": "Route Nationale 444",
+    "cp": "91430",
+    "latitude": 48.735,
+    "longitude": 2.225,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.609,
+        "maj": "2025-05-30 15:25:29"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.739,
+        "maj": "2025-05-30 15:25:29"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.909,
+        "maj": "2025-05-30 15:25:29"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Piste poids lourds",
+      "Lavage automatique",
+      "Vente de gaz domestique (Butane, Propane)"
+    ],
+    "distance_km": 9.11
+  },
+  {
+    "id": 94400005,
+    "ville": "Vitry-Sur-Seine",
+    "adresse": "34 Av. Henri Barbusse",
+    "cp": "94400",
+    "latitude": 48.79281,
+    "longitude": 2.3905,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.584,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.781,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.705,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.779,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [],
+    "distance_km": 6.1
+  },
+  {
+    "id": 91300020,
+    "ville": "Massy",
+    "adresse": "40 Route De Palaiseau",
+    "cp": "91300",
+    "latitude": 48.72852,
+    "longitude": 2.24518,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.553,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.776,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.675,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.769,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [],
+    "distance_km": 8.81
+  },
+  {
+    "id": 94150009,
+    "ville": "Rungis",
+    "adresse": "Route Nationale 186",
+    "cp": "94150",
+    "latitude": 48.753,
+    "longitude": 2.361,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.629,
+        "maj": "2025-06-03 06:20:29"
+      },
+      {
+        "nom": "GPLc",
+        "valeur": 0.999,
+        "maj": "2025-06-03 06:20:29"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.739,
+        "maj": "2025-06-03 06:20:30"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.909,
+        "maj": "2025-06-03 06:20:30"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Piste poids lourds",
+      "Lavage automatique",
+      "Vente d'additifs carburants",
+      "Automate CB 24/24"
+    ],
+    "distance_km": 6.19
+  },
+  {
+    "id": 75016023,
+    "ville": "Paris",
+    "adresse": "7 Boulevard Murat",
+    "cp": "75016",
+    "latitude": 48.847,
+    "longitude": 2.259,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.819,
+        "maj": "2025-06-02 12:25:49"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.929,
+        "maj": "2025-06-02 12:25:49"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé"
+    ],
+    "distance_km": 6.69
+  },
+  {
+    "id": 75014010,
+    "ville": "Paris",
+    "adresse": "Rue Legion Etrangere",
+    "cp": "75014",
+    "latitude": 48.829,
+    "longitude": 2.326,
+    "prix": [
+      {
+        "nom": "E85",
+        "valeur": 0.789,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.809,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.919,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Carburant additivé",
+      "Bornes électriques",
+      "Wifi",
+      "Automate CB 24/24"
+    ],
+    "distance_km": 3.9
+  },
+  {
+    "id": 92100014,
+    "ville": "Boulogne-Billancourt",
+    "adresse": "29-31 Avenue Morizet",
+    "cp": "92100",
+    "latitude": 48.83585,
+    "longitude": 2.23898,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.709,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.811,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.921,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [],
+    "distance_km": 6.7
+  },
+  {
+    "id": 94220004,
+    "ville": "Charenton-Le-Pont",
+    "adresse": "4 Bis Av De La Liberte",
+    "cp": "94220",
+    "latitude": 48.82225,
+    "longitude": 2.40285,
+    "prix": [],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Station de gonflage",
+      "Services réparation / entretien"
+    ],
+    "distance_km": 7.58
+  },
+  {
+    "id": 75013023,
+    "ville": "Paris",
+    "adresse": "Rue Jean-Baptiste Berlier - Quai",
+    "cp": "75013",
+    "latitude": 48.82586,
+    "longitude": 2.38433,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.705,
+        "maj": "2025-06-03 06:00:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.811,
+        "maj": "2025-06-03 06:00:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.921,
+        "maj": "2025-06-03 06:00:00"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Carburant additivé"
+    ],
+    "distance_km": 6.54
+  },
+  {
+    "id": 91570004,
+    "ville": "Bièvres",
+    "adresse": "Rn118",
+    "cp": "91570",
+    "latitude": 48.746,
+    "longitude": 2.197,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.569,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.762,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.679,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.769,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Restauration à emporter",
+      "Station de gonflage",
+      "Piste poids lourds",
+      "Espace bébé",
+      "Bornes électriques",
+      "Vente d'additifs carburants",
+      "Wifi",
+      "Automate CB 24/24"
+    ],
+    "distance_km": 9.86
+  },
+  {
+    "id": 75015034,
+    "ville": "Paris",
+    "adresse": "11 Boulevard Garibaldi",
+    "cp": "75015",
+    "latitude": 48.848,
+    "longitude": 2.303,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.719,
+        "maj": "2025-05-27 19:04:19"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.899,
+        "maj": "2025-05-27 19:04:20"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Lavage manuel",
+      "Services réparation / entretien",
+      "Vente de gaz domestique (Butane, Propane)",
+      "Vente d'additifs carburants"
+    ],
+    "distance_km": 5.78
+  },
+  {
+    "id": 75013025,
+    "ville": "Paris",
+    "adresse": "181, Boulevard Vincent Auriol",
+    "cp": "75013",
+    "latitude": 48.832,
+    "longitude": 2.359,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.593,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "GPLc",
+        "valeur": 0.94,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.712,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.789,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Carburant additivé",
+      "Vente d'additifs carburants",
+      "Automate CB 24/24"
+    ],
+    "distance_km": 5.49
+  },
+  {
+    "id": 92140014,
+    "ville": "Clamart",
+    "adresse": "320 Av Du General De Gaulle",
+    "cp": "92140",
+    "latitude": 48.785,
+    "longitude": 2.251,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.699,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.809,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.919,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Restauration à emporter",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Piste poids lourds",
+      "Lavage automatique",
+      "Vente de gaz domestique (Butane, Propane)",
+      "Vente d'additifs carburants",
+      "Wifi",
+      "Automate CB 24/24"
+    ],
+    "distance_km": 4.34
+  },
+  {
+    "id": 91570003,
+    "ville": "Bièvres",
+    "adresse": "Route Nationale 118",
+    "cp": "91570",
+    "latitude": 48.748,
+    "longitude": 2.197,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.619,
+        "maj": "2025-06-03 06:17:49"
+      },
+      {
+        "nom": "GPLc",
+        "valeur": 1.049,
+        "maj": "2025-06-03 06:17:49"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.889,
+        "maj": "2025-06-03 06:17:49"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Douches",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Restauration à emporter",
+      "Restauration sur place",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Piste poids lourds",
+      "Lavage automatique",
+      "Vente de gaz domestique (Butane, Propane)",
+      "Vente d'additifs carburants",
+      "Automate CB 24/24"
+    ],
+    "distance_km": 9.73
+  },
+  {
+    "id": 92330002,
+    "ville": "Châtenay-Malabry",
+    "adresse": "77 Avenue ÃDouard Depreux",
+    "cp": "92330",
+    "latitude": 48.774,
+    "longitude": 2.28,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.689,
+        "maj": "2025-05-31 11:25:49"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.799,
+        "maj": "2025-05-31 11:25:49"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Vente de gaz domestique (Butane, Propane)"
+    ],
+    "distance_km": 3.19
+  },
+  {
+    "id": 91300006,
+    "ville": "Massy",
+    "adresse": "Route De Palaiseau",
+    "cp": "91300",
+    "latitude": 48.729,
+    "longitude": 2.245,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.549,
+        "maj": "2025-05-23 08:42:36"
+      },
+      {
+        "nom": "SP95",
+        "valeur": 1.715,
+        "maj": "2025-05-28 08:01:43"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.669,
+        "maj": "2025-05-15 10:04:26"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.759,
+        "maj": "2025-05-20 07:39:54"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "DAB (Distributeur automatique de billets)"
+    ],
+    "distance_km": 8.77
+  },
+  {
+    "id": 75015028,
+    "ville": "Paris",
+    "adresse": "76-78 Boulevard Garibaldi",
+    "cp": "75015",
+    "latitude": 48.846,
+    "longitude": 2.308,
+    "prix": [],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Lavage automatique"
+    ],
+    "distance_km": 5.55
+  },
+  {
+    "id": 94250001,
+    "ville": "Gentilly",
+    "adresse": "67 Avenue Raspail",
+    "cp": "94250",
+    "latitude": 48.814,
+    "longitude": 2.348,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.584,
+        "maj": "2025-05-30 11:11:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.694,
+        "maj": "2025-05-30 11:11:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.778,
+        "maj": "2025-05-30 11:11:00"
+      }
+    ],
+    "services": [],
+    "distance_km": 3.57
+  },
+  {
+    "id": 94200009,
+    "ville": "Ivry-Sur-Seine",
+    "adresse": "79 Av. Georges Gosnat",
+    "cp": "94200",
+    "latitude": 48.813,
+    "longitude": 2.389,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.699,
+        "maj": "2025-05-30 15:50:49"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.809,
+        "maj": "2025-05-30 15:50:49"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.979,
+        "maj": "2025-05-30 15:50:50"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Vente de gaz domestique (Butane, Propane)"
+    ],
+    "distance_km": 6.27
+  },
+  {
+    "id": 94000012,
+    "ville": "Rungis",
+    "adresse": "Route De Choisy Rn186",
+    "cp": "94000",
+    "latitude": 48.753,
+    "longitude": 2.361,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.699,
+        "maj": "2025-05-24 14:18:09"
+      },
+      {
+        "nom": "GPLc",
+        "valeur": 1.089,
+        "maj": "2025-05-24 14:18:09"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.819,
+        "maj": "2025-05-24 14:18:09"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.989,
+        "maj": "2025-05-24 14:18:10"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Vente de gaz domestique (Butane, Propane)"
+    ],
+    "distance_km": 6.19
+  },
+  {
+    "id": 94800007,
+    "ville": "Villejuif",
+    "adresse": "117 Bld Maxime Gorki",
+    "cp": "94800",
+    "latitude": 48.793,
+    "longitude": 2.37,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.589,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.781,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.709,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.781,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Vente de gaz domestique (Butane, Propane)"
+    ],
+    "distance_km": 4.6
+  },
+  {
+    "id": 92120002,
+    "ville": "Montrouge",
+    "adresse": "91 Avenue Aristide Briand",
+    "cp": "92120",
+    "latitude": 48.81468,
+    "longitude": 2.32592,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.709,
+        "maj": "2025-04-25 06:00:00"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.769,
+        "maj": "2025-04-25 06:00:00"
+      },
+      {
+        "nom": "GPLc",
+        "valeur": 0.999,
+        "maj": "2025-04-25 06:00:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.769,
+        "maj": "2025-04-25 06:00:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.949,
+        "maj": "2025-04-25 06:00:00"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Lavage manuel",
+      "Services réparation / entretien",
+      "Vente de gaz domestique (Butane, Propane)"
+    ],
+    "distance_km": 2.47
+  },
+  {
+    "id": 92190003,
+    "ville": "Meudon",
+    "adresse": "97 Ter Route Du Pave Des Gardes",
+    "cp": "92190",
+    "latitude": 48.813200300000005,
+    "longitude": 2.21690094,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.699,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "GPLc",
+        "valeur": 0.979,
+        "maj": "2024-06-26 19:28:04"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.809,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.919,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Station de gonflage",
+      "Lavage automatique",
+      "Vente de gaz domestique (Butane, Propane)"
+    ],
+    "distance_km": 6.93
+  },
+  {
+    "id": 78140010,
+    "ville": "Vélizy-Villacoublay",
+    "adresse": "27,Rue Louis Breguet",
+    "cp": "78140",
+    "latitude": 48.781,
+    "longitude": 2.183,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.659,
+        "maj": "2025-06-03 06:22:04"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.779,
+        "maj": "2025-06-03 06:22:04"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.959,
+        "maj": "2025-06-03 06:22:04"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Vente de gaz domestique (Butane, Propane)",
+      "Automate CB 24/24"
+    ],
+    "distance_km": 9.31
+  },
+  {
+    "id": 75016025,
+    "ville": "Paris",
+    "adresse": "99 Avenue De Versailles",
+    "cp": "75016",
+    "latitude": 48.845,
+    "longitude": 2.272,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.719,
+        "maj": "2025-06-02 16:36:20"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.819,
+        "maj": "2025-06-02 16:36:20"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.929,
+        "maj": "2025-06-02 16:36:20"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage manuel",
+      "Services réparation / entretien",
+      "Vente d'additifs carburants"
+    ],
+    "distance_km": 6.03
+  },
+  {
+    "id": 94204001,
+    "ville": "Ivry-Sur-Seine",
+    "adresse": "10 Rue Westermeyer",
+    "cp": "94200",
+    "latitude": 48.819,
+    "longitude": 2.396,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.57,
+        "maj": "2025-05-22 07:26:51"
+      },
+      {
+        "nom": "SP95",
+        "valeur": 1.719,
+        "maj": "2025-05-22 07:26:51"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.683,
+        "maj": "2025-05-22 07:26:51"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.772,
+        "maj": "2025-05-22 07:26:51"
+      }
+    ],
+    "services": [
+      "Station de gonflage",
+      "Location de véhicule",
+      "Automate CB 24/24",
+      "DAB (Distributeur automatique de billets)"
+    ],
+    "distance_km": 6.97
+  },
+  {
+    "id": 92130006,
+    "ville": "Issy-Les-Moulineaux",
+    "adresse": "18-22 Bld Des Freres Voisin",
+    "cp": "92130",
+    "latitude": 48.827841660000004,
+    "longitude": 2.2713364300000003,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.596,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.712,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.789,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Restauration à emporter",
+      "Restauration sur place",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Vente de gaz domestique (Butane, Propane)",
+      "DAB (Distributeur automatique de billets)"
+    ],
+    "distance_km": 4.42
+  },
+  {
+    "id": 75015036,
+    "ville": "Paris",
+    "adresse": "21 Avenue Emile Zola",
+    "cp": "75015",
+    "latitude": 48.846443,
+    "longitude": 2.280126,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.749,
+        "maj": "2025-05-17 11:40:00"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.795,
+        "maj": "2025-05-17 11:40:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.849,
+        "maj": "2025-05-17 11:40:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.909,
+        "maj": "2025-05-17 11:40:00"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Relais colis",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Location de véhicule",
+      "Lavage automatique",
+      "Lavage manuel",
+      "Services réparation / entretien",
+      "Vente de gaz domestique (Butane, Propane)"
+    ],
+    "distance_km": 5.95
+  },
+  {
+    "id": 94594002,
+    "ville": "Chevilly-Larue",
+    "adresse": "103 Boulevard Circulaire E Fruileg",
+    "cp": "94594",
+    "latitude": 48.76462365898399,
+    "longitude": 2.3566444220819003,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.699,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.806,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.916,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Douches",
+      "Boutique alimentaire",
+      "Restauration à emporter",
+      "Vente de fioul domestique",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Piste poids lourds",
+      "Lavage automatique",
+      "Lavage manuel",
+      "Vente de gaz domestique (Butane, Propane)",
+      "DAB (Distributeur automatique de billets)"
+    ],
+    "distance_km": 5.02
+  },
+  {
+    "id": 75014012,
+    "ville": "Paris",
+    "adresse": "154 Rue D'Alésia",
+    "cp": "75014",
+    "latitude": 48.832,
+    "longitude": 2.316,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.709,
+        "maj": "2025-05-24 06:24:02"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.811,
+        "maj": "2025-06-03 08:40:44"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.921,
+        "maj": "2025-06-03 08:40:44"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Vente de gaz domestique (Butane, Propane)"
+    ],
+    "distance_km": 4.04
+  },
+  {
+    "id": 75012005,
+    "ville": "Paris",
+    "adresse": "173 Avenue Daumesnil",
+    "cp": "75012",
+    "latitude": 48.84074,
+    "longitude": 2.39104,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.89,
+        "maj": "2025-04-18 09:32:25"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.99,
+        "maj": "2025-04-18 09:32:25"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.99,
+        "maj": "2025-04-18 09:32:25"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Vente de fioul domestique",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Piste poids lourds",
+      "Lavage automatique",
+      "Lavage manuel",
+      "Services réparation / entretien",
+      "DAB (Distributeur automatique de billets)"
+    ],
+    "distance_km": 7.89
+  },
+  {
+    "id": 75016006,
+    "ville": "Paris",
+    "adresse": "Place Tattegrain",
+    "cp": "75116",
+    "latitude": 48.864,
+    "longitude": 2.272,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.819,
+        "maj": "2025-05-24 07:00:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.919,
+        "maj": "2025-05-24 07:00:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 2.049,
+        "maj": "2025-05-24 07:00:00"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage manuel"
+    ],
+    "distance_km": 7.99
+  },
+  {
+    "id": 75007004,
+    "ville": "Paris",
+    "adresse": "37 Rue Fabert",
+    "cp": "75007",
+    "latitude": 48.85862,
+    "longitude": 2.31125,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.709,
+        "maj": "2025-06-03 06:00:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.811,
+        "maj": "2025-06-03 06:00:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.921,
+        "maj": "2025-06-03 06:00:00"
+      }
+    ],
+    "services": [],
+    "distance_km": 6.96
+  },
+  {
+    "id": 75007003,
+    "ville": "Paris",
+    "adresse": "15 Avenue Duquesne",
+    "cp": "75007",
+    "latitude": 48.853,
+    "longitude": 2.308,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 2.2,
+        "maj": "2024-01-10 12:09:36"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 2.4,
+        "maj": "2024-01-10 12:09:36"
+      }
+    ],
+    "services": [
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Services réparation / entretien"
+    ],
+    "distance_km": 6.33
+  },
+  {
+    "id": 75012021,
+    "ville": "Paris",
+    "adresse": "55 Bld De Picpus",
+    "cp": "75012",
+    "latitude": 48.846,
+    "longitude": 2.401,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.709,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.811,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.921,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Wifi"
+    ],
+    "distance_km": 8.82
+  },
+  {
+    "id": 94400003,
+    "ville": "Vitry-Sur-Seine",
+    "adresse": "159 Avenue Rouget De L'Isle",
+    "cp": "94400",
+    "latitude": 48.782,
+    "longitude": 2.395,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.593,
+        "maj": "2025-06-03 06:36:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.714,
+        "maj": "2025-06-03 06:36:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.788,
+        "maj": "2025-06-03 06:36:00"
+      }
+    ],
+    "services": [],
+    "distance_km": 6.61
+  },
+  {
+    "id": 92210008,
+    "ville": "Saint-Cloud",
+    "adresse": "35 Boulevard De La République",
+    "cp": "92210",
+    "latitude": 48.845,
+    "longitude": 2.21,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.639,
+        "maj": "2025-05-24 13:47:49"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.789,
+        "maj": "2025-05-24 13:47:49"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.759,
+        "maj": "2025-05-24 13:47:50"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.929,
+        "maj": "2025-05-24 13:47:49"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Vente de gaz domestique (Butane, Propane)"
+    ],
+    "distance_km": 9.0
+  },
+  {
+    "id": 94240004,
+    "ville": "L'Haÿ-Les-Roses",
+    "adresse": "110 Boulevard Paul Vaillant-Couturier",
+    "cp": "94240",
+    "latitude": 48.777,
+    "longitude": 2.34,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.699,
+        "maj": "2025-05-24 14:20:11"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.789,
+        "maj": "2025-05-24 14:20:11"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.959,
+        "maj": "2025-05-24 14:20:11"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Vente de gaz domestique (Butane, Propane)"
+    ],
+    "distance_km": 3.19
+  },
+  {
+    "id": 75016026,
+    "ville": "Paris",
+    "adresse": "4 Avenue Foch",
+    "cp": "75016",
+    "latitude": 48.87366,
+    "longitude": 2.292015,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.899,
+        "maj": "2025-06-03 07:00:00"
+      },
+      {
+        "nom": "SP95",
+        "valeur": 1.999,
+        "maj": "2025-06-03 07:00:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 2.099,
+        "maj": "2025-06-03 07:00:00"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Services réparation / entretien"
+    ],
+    "distance_km": 8.7
+  },
+  {
+    "id": 75013028,
+    "ville": "Paris",
+    "adresse": "85 Rue Jeanne Darc",
+    "cp": "75013",
+    "latitude": 48.832,
+    "longitude": 2.365,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.659,
+        "maj": "2025-05-27 13:22:29"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.789,
+        "maj": "2025-05-27 13:22:29"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique"
+    ],
+    "distance_km": 5.81
+  },
+  {
+    "id": 92120004,
+    "ville": "Le Kremlin-Bicêtre",
+    "adresse": "70-74 Av Aristide Briand",
+    "cp": "92120",
+    "latitude": 48.813,
+    "longitude": 2.357,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.709,
+        "maj": "2025-06-03 06:28:12"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.769,
+        "maj": "2025-06-03 06:28:11"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.779,
+        "maj": "2025-06-03 06:28:11"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.949,
+        "maj": "2025-06-03 06:28:11"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Vente de gaz domestique (Butane, Propane)",
+      "Automate CB 24/24"
+    ],
+    "distance_km": 4.09
+  },
+  {
+    "id": 75016022,
+    "ville": "Paris",
+    "adresse": "26 Av Paul Doumer",
+    "cp": "75016",
+    "latitude": 48.861,
+    "longitude": 2.283,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.809,
+        "maj": "2025-06-03 06:25:52"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.909,
+        "maj": "2025-06-03 06:25:51"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 2.039,
+        "maj": "2025-06-03 06:25:52"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Vente de gaz domestique (Butane, Propane)",
+      "Automate CB 24/24"
+    ],
+    "distance_km": 7.44
+  },
+  {
+    "id": 75016017,
+    "ville": "Paris",
+    "adresse": "2 Av De La Porte De St Cloud",
+    "cp": "75016",
+    "latitude": 48.83868,
+    "longitude": 2.25394,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.709,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.811,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.921,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Lavage manuel",
+      "DAB (Distributeur automatique de billets)"
+    ],
+    "distance_km": 6.16
+  },
+  {
+    "id": 75016011,
+    "ville": "Paris",
+    "adresse": "69 Avenue Kléber",
+    "cp": "75116",
+    "latitude": 48.865,
+    "longitude": 2.289,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 2.15,
+        "maj": "2025-05-05 07:12:22"
+      },
+      {
+        "nom": "SP95",
+        "valeur": 2.47,
+        "maj": "2025-05-05 07:12:22"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 2.51,
+        "maj": "2025-05-05 07:12:23"
+      }
+    ],
+    "services": [],
+    "distance_km": 7.78
+  },
+  {
+    "id": 94003002,
+    "ville": "Créteil",
+    "adresse": "Autoroute A86 Aire De Carrefour Pompadour",
+    "cp": "94000",
+    "latitude": 48.77982431969,
+    "longitude": 2.4408683431092,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.699,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.789,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "GPLc",
+        "valeur": 0.999,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.809,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.899,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Restauration à emporter",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique"
+    ],
+    "distance_km": 9.96
+  },
+  {
+    "id": 94550001,
+    "ville": "Chevilly-Larue",
+    "adresse": "264 Avenue De Stalingrad",
+    "cp": "94550",
+    "latitude": 48.767,
+    "longitude": 2.368,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.584,
+        "maj": "2025-06-03 06:36:00"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.784,
+        "maj": "2025-06-03 06:36:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.705,
+        "maj": "2025-06-03 06:36:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.779,
+        "maj": "2025-06-03 06:36:00"
+      }
+    ],
+    "services": [],
+    "distance_km": 5.49
+  },
+  {
+    "id": 94270005,
+    "ville": "Le Kremlin-Bicêtre",
+    "adresse": "Avenue De Fontainebleau",
+    "cp": "94270",
+    "latitude": 48.807706768264,
+    "longitude": 2.3626414755006997,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.575,
+        "maj": "2025-05-30 08:14:41"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.685,
+        "maj": "2025-05-30 08:14:41"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.769,
+        "maj": "2025-05-30 08:14:41"
+      }
+    ],
+    "services": "Automate CB 24/24",
+    "distance_km": 4.24
+  },
+  {
+    "id": 75001003,
+    "ville": "Paris",
+    "adresse": "8,10,10Bis Rue Bailleul",
+    "cp": "75001",
+    "latitude": 48.861,
+    "longitude": 2.341,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.99,
+        "maj": "2025-04-10 15:40:30"
+      },
+      {
+        "nom": "SP95",
+        "valeur": 2.14,
+        "maj": "2025-04-10 15:40:30"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 2.19,
+        "maj": "2025-04-10 15:40:30"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage manuel",
+      "Vente d'additifs carburants"
+    ],
+    "distance_km": 7.62
+  },
+  {
+    "id": 91300007,
+    "ville": "Massy",
+    "adresse": "Avenue De L'Europe",
+    "cp": "91300",
+    "latitude": 48.726,
+    "longitude": 2.28,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.563,
+        "maj": "2025-06-02 11:44:07"
+      },
+      {
+        "nom": "SP95",
+        "valeur": 1.716,
+        "maj": "2025-05-30 11:41:51"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.716,
+        "maj": "2025-06-02 11:44:08"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.76,
+        "maj": "2025-06-02 11:44:08"
+      }
+    ],
+    "services": [
+      "Station de gonflage",
+      "Automate CB 24/24"
+    ],
+    "distance_km": 8.06
+  },
+  {
+    "id": 75013026,
+    "ville": "Paris",
+    "adresse": "231 Rue De Tolbiac",
+    "cp": "75013",
+    "latitude": 48.826,
+    "longitude": 2.344,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.729,
+        "maj": "2025-06-02 09:39:23"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.819,
+        "maj": "2025-06-02 09:39:24"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.929,
+        "maj": "2025-06-02 09:39:24"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage manuel",
+      "Services réparation / entretien",
+      "Vente d'additifs carburants"
+    ],
+    "distance_km": 4.27
+  },
+  {
+    "id": 91300019,
+    "ville": "Massy",
+    "adresse": "190 Avenue Du Maréchal Leclerc",
+    "cp": "91300",
+    "latitude": 48.739,
+    "longitude": 2.302,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.576,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.691,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.769,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Relais colis",
+      "Boutique alimentaire",
+      "Station de gonflage",
+      "Lavage automatique",
+      "Lavage manuel",
+      "Vente de gaz domestique (Butane, Propane)",
+      "Wifi"
+    ],
+    "distance_km": 6.36
+  },
+  {
+    "id": 94537002,
+    "ville": "Thiais",
+    "adresse": "1 Rue Des Lances",
+    "cp": "94537",
+    "latitude": 48.75,
+    "longitude": 2.389,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.699,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.789,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.806,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.916,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Restauration à emporter",
+      "Vente de fioul domestique",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Piste poids lourds",
+      "GNV",
+      "Vente d'additifs carburants",
+      "Wifi",
+      "Automate CB 24/24"
+    ],
+    "distance_km": 7.88
+  },
+  {
+    "id": 92150008,
+    "ville": "Suresnes",
+    "adresse": "138 Boulevard Henri Sellier",
+    "cp": "92150",
+    "latitude": 48.862,
+    "longitude": 2.216,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.689,
+        "maj": "2025-05-24 14:15:29"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.789,
+        "maj": "2025-05-24 14:15:29"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.959,
+        "maj": "2025-05-24 14:15:30"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Vente de gaz domestique (Butane, Propane)"
+    ],
+    "distance_km": 9.95
+  },
+  {
+    "id": 92100010,
+    "ville": "Boulogne-Billancourt",
+    "adresse": "16 Avenue André Morizet",
+    "cp": "92100",
+    "latitude": 48.83468,
+    "longitude": 2.24193,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.76,
+        "maj": "2025-05-07 17:11:45"
+      },
+      {
+        "nom": "SP95",
+        "valeur": 1.83,
+        "maj": "2025-05-07 17:11:45"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.88,
+        "maj": "2025-05-07 17:11:45"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Piste poids lourds",
+      "Lavage manuel",
+      "Vente de gaz domestique (Butane, Propane)"
+    ],
+    "distance_km": 6.46
+  },
+  {
+    "id": 92140016,
+    "ville": "Clamart",
+    "adresse": "1 Avenue Claude Trebignaud",
+    "cp": "92140",
+    "latitude": 48.794,
+    "longitude": 2.252,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.596,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.782,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.712,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.789,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Vente de gaz domestique (Butane, Propane)",
+      "Wifi",
+      "Automate CB 24/24"
+    ],
+    "distance_km": 4.09
+  },
+  {
+    "id": 94150008,
+    "ville": "Rungis",
+    "adresse": "Route Nationale 186",
+    "cp": "94150",
+    "latitude": 48.754,
+    "longitude": 2.362,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.629,
+        "maj": "2025-06-03 06:21:10"
+      },
+      {
+        "nom": "GPLc",
+        "valeur": 0.989,
+        "maj": "2025-06-03 06:21:09"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.739,
+        "maj": "2025-06-03 06:21:10"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.909,
+        "maj": "2025-06-03 06:21:09"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Piste poids lourds",
+      "Lavage automatique",
+      "Vente d'additifs carburants",
+      "Automate CB 24/24"
+    ],
+    "distance_km": 6.16
+  },
+  {
+    "id": 92140009,
+    "ville": "Clamart",
+    "adresse": "5 Rue De Vanves",
+    "cp": "92140",
+    "latitude": 48.812,
+    "longitude": 2.271,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.669,
+        "maj": "2025-05-29 17:39:29"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.789,
+        "maj": "2025-05-29 17:39:29"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.969,
+        "maj": "2025-05-29 17:39:29"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Services réparation / entretien",
+      "Vente de gaz domestique (Butane, Propane)",
+      "Vente d'additifs carburants"
+    ],
+    "distance_km": 3.22
+  },
+  {
+    "id": 92260001,
+    "ville": "Fontenay-Aux-Roses",
+    "adresse": "21 Avenue Jeanne Et Maurice Dolivet",
+    "cp": "92260",
+    "latitude": 48.793,
+    "longitude": 2.29,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.605,
+        "maj": "2025-06-03 06:36:00"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.784,
+        "maj": "2025-06-03 06:36:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.721,
+        "maj": "2025-06-03 06:36:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.798,
+        "maj": "2025-06-03 06:36:00"
+      }
+    ],
+    "services": [],
+    "distance_km": 1.34
+  },
+  {
+    "id": 92360005,
+    "ville": "Meudon",
+    "adresse": "38, Avenue Du Delattre De Tassigny",
+    "cp": "92360",
+    "latitude": 48.785,
+    "longitude": 2.226,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.619,
+        "maj": "2025-06-03 06:24:30"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.789,
+        "maj": "2025-06-03 06:24:30"
+      },
+      {
+        "nom": "GPLc",
+        "valeur": 1.049,
+        "maj": "2025-06-03 06:24:30"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.739,
+        "maj": "2025-06-03 06:24:29"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.919,
+        "maj": "2025-06-03 06:24:29"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Piste poids lourds",
+      "Lavage automatique",
+      "Lavage manuel",
+      "Vente de gaz domestique (Butane, Propane)",
+      "Automate CB 24/24"
+    ],
+    "distance_km": 6.12
+  },
+  {
+    "id": 94110003,
+    "ville": "Arcueil",
+    "adresse": "23 Avenue Paul Doumer",
+    "cp": "94110",
+    "latitude": 48.807,
+    "longitude": 2.337,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.699,
+        "maj": "2025-06-02 16:58:09"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.799,
+        "maj": "2025-06-02 16:58:09"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.949,
+        "maj": "2025-06-02 16:58:09"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Vente de gaz domestique (Butane, Propane)"
+    ],
+    "distance_km": 2.48
+  },
+  {
+    "id": 91370001,
+    "ville": "Verrières-Le-Buisson",
+    "adresse": "Bd Du Marechal Juin",
+    "cp": "91370",
+    "latitude": 48.753,
+    "longitude": 2.273,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.585,
+        "maj": "2025-06-03 06:36:00"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.785,
+        "maj": "2025-06-03 06:36:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.7,
+        "maj": "2025-06-03 06:36:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.778,
+        "maj": "2025-06-03 06:36:00"
+      }
+    ],
+    "services": [],
+    "distance_km": 5.43
+  },
+  {
+    "id": 92140005,
+    "ville": "Clamart",
+    "adresse": "448 Av General De Gaulle",
+    "cp": "92140",
+    "latitude": 48.78,
+    "longitude": 2.238,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.605,
+        "maj": "2025-06-03 06:36:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.721,
+        "maj": "2025-06-03 06:36:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.798,
+        "maj": "2025-06-03 06:36:00"
+      }
+    ],
+    "services": [],
+    "distance_km": 5.42
+  },
+  {
+    "id": 94400004,
+    "ville": "Vitry-Sur-Seine",
+    "adresse": "2 Rue Eugène Hénaff",
+    "cp": "94400",
+    "latitude": 48.794,
+    "longitude": 2.416,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.549,
+        "maj": "2025-05-14 12:47:32"
+      },
+      {
+        "nom": "SP95",
+        "valeur": 1.699,
+        "maj": "2025-05-14 12:47:32"
+      },
+      {
+        "nom": "GPLc",
+        "valeur": 0.925,
+        "maj": "2025-05-12 09:11:06"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.659,
+        "maj": "2025-05-14 12:47:32"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.729,
+        "maj": "2025-05-14 12:47:33"
+      }
+    ],
+    "services": [
+      "Lavage automatique",
+      "Lavage manuel",
+      "Automate CB 24/24"
+    ],
+    "distance_km": 7.97
+  },
+  {
+    "id": 94600007,
+    "ville": "Choisy-Le-Roi",
+    "adresse": "33 Av.De Lugo",
+    "cp": "94600",
+    "latitude": 48.77084,
+    "longitude": 2.4091,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.682,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.784,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Piste poids lourds",
+      "Lavage automatique",
+      "Lavage manuel",
+      "Vente de gaz domestique (Butane, Propane)"
+    ],
+    "distance_km": 7.97
+  },
+  {
+    "id": 94550002,
+    "ville": "Chevilly-Larue",
+    "adresse": "14 Av Du General De Gaulle",
+    "cp": "94550",
+    "latitude": 48.77313,
+    "longitude": 2.3378,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.699,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.789,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.919,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Vente de gaz domestique (Butane, Propane)"
+    ],
+    "distance_km": 3.38
+  },
+  {
+    "id": 78140001,
+    "ville": "Vélizy-Villacoublay",
+    "adresse": "4 Rue Dewoitine",
+    "cp": "78140",
+    "latitude": 48.783,
+    "longitude": 2.215,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.604,
+        "maj": "2025-05-31 08:52:12"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.784,
+        "maj": "2025-05-23 08:37:46"
+      },
+      {
+        "nom": "GPLc",
+        "valeur": 0.969,
+        "maj": "2025-05-23 08:37:47"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.721,
+        "maj": "2025-05-31 08:52:13"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.798,
+        "maj": "2025-05-31 08:52:13"
+      }
+    ],
+    "services": [
+      "Station de gonflage",
+      "Lavage automatique",
+      "Lavage manuel",
+      "Vente de gaz domestique (Butane, Propane)",
+      "Automate CB 24/24"
+    ],
+    "distance_km": 6.96
+  },
+  {
+    "id": 92240001,
+    "ville": "Malakoff",
+    "adresse": "22 Boulevard Gabriel Péri",
+    "cp": "92240",
+    "latitude": 48.81915,
+    "longitude": 2.29591,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.719,
+        "maj": "2025-05-24 07:00:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.829,
+        "maj": "2025-05-05 11:22:26"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.899,
+        "maj": "2025-05-27 07:00:00"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Relais colis",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Location de véhicule",
+      "Lavage automatique",
+      "Vente de gaz domestique (Butane, Propane)"
+    ],
+    "distance_km": 2.7
+  },
+  {
+    "id": 94110004,
+    "ville": "Arcueil",
+    "adresse": "20 Avenue Paul Vaillant-Couturier",
+    "cp": "94110",
+    "latitude": 48.801,
+    "longitude": 2.34,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.598,
+        "maj": "2025-06-03 06:36:00"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.784,
+        "maj": "2025-06-03 06:36:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.694,
+        "maj": "2025-06-03 06:36:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.778,
+        "maj": "2025-06-03 06:36:00"
+      }
+    ],
+    "services": [],
+    "distance_km": 2.44
+  },
+  {
+    "id": 94310002,
+    "ville": "Orly",
+    "adresse": "8 Place Gaston Viens",
+    "cp": "94310",
+    "latitude": 48.743,
+    "longitude": 2.408,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.539,
+        "maj": "2025-05-29 10:56:52"
+      },
+      {
+        "nom": "SP95",
+        "valeur": 1.689,
+        "maj": "2025-05-29 10:56:52"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.645,
+        "maj": "2025-05-29 10:56:53"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.719,
+        "maj": "2025-05-29 10:56:53"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Laverie",
+      "Relais colis",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Restauration à emporter",
+      "Restauration sur place",
+      "Bar",
+      "Vente de fioul domestique",
+      "Location de véhicule",
+      "Vente de gaz domestique (Butane, Propane)",
+      "Automate CB 24/24",
+      "DAB (Distributeur automatique de billets)"
+    ],
+    "distance_km": 9.45
+  },
+  {
+    "id": 94542003,
+    "ville": "Paray-Vieille-Poste",
+    "adresse": "Sarl Jaby, Orly Ouest 453",
+    "cp": "94542",
+    "latitude": 48.732370599999996,
+    "longitude": 2.3657066,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.699,
+        "maj": "2025-04-25 06:00:00"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.799,
+        "maj": "2025-04-25 06:00:00"
+      },
+      {
+        "nom": "GPLc",
+        "valeur": 1.21,
+        "maj": "2025-04-25 06:00:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.804,
+        "maj": "2025-04-25 06:00:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.909,
+        "maj": "2025-04-25 06:00:00"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Restauration à emporter",
+      "Restauration sur place",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Piste poids lourds",
+      "Lavage automatique",
+      "Lavage manuel",
+      "Espace bébé",
+      "DAB (Distributeur automatique de billets)"
+    ],
+    "distance_km": 8.27
+  },
+  {
+    "id": 92160003,
+    "ville": "Antony",
+    "adresse": "18 Rue Jean Moulin",
+    "cp": "92160",
+    "latitude": 48.753,
+    "longitude": 2.308,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.576,
+        "maj": "2025-06-03 06:35:00"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.782,
+        "maj": "2025-06-03 06:35:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.691,
+        "maj": "2025-06-03 06:35:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.769,
+        "maj": "2025-06-03 06:35:00"
+      }
+    ],
+    "services": [],
+    "distance_km": 4.79
+  },
+  {
+    "id": 75013024,
+    "ville": "Paris",
+    "adresse": "114 Bd De L Hopital",
+    "cp": "75013",
+    "latitude": 48.835,
+    "longitude": 2.358,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.709,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "SP95",
+        "valeur": 1.909,
+        "maj": "2025-01-29 16:01:35"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.789,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Lavage manuel",
+      "Vente de gaz domestique (Butane, Propane)",
+      "Wifi"
+    ],
+    "distance_km": 5.69
+  },
+  {
+    "id": 94200008,
+    "ville": "Ivry-Sur-Seine",
+    "adresse": "168-180 Bld De Stalingrad",
+    "cp": "94200",
+    "latitude": 48.80595,
+    "longitude": 2.37609,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.702,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.789,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.811,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.921,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Relais colis",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Lavage manuel",
+      "DAB (Distributeur automatique de billets)"
+    ],
+    "distance_km": 5.15
+  },
+  {
+    "id": 94220003,
+    "ville": "Charenton-Le-Pont",
+    "adresse": "114 Rue De Paris",
+    "cp": "94220",
+    "latitude": 48.825,
+    "longitude": 2.408,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.769,
+        "maj": "2025-05-10 07:00:00"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.999,
+        "maj": "2025-05-10 07:00:00"
+      },
+      {
+        "nom": "GPLc",
+        "valeur": 1.21,
+        "maj": "2025-05-10 07:00:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.899,
+        "maj": "2025-05-10 07:00:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.949,
+        "maj": "2025-05-10 07:00:00"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Lavage manuel",
+      "Vente de gaz domestique (Butane, Propane)",
+      "DAB (Distributeur automatique de billets)"
+    ],
+    "distance_km": 8.04
+  },
+  {
+    "id": 94700007,
+    "ville": "Maisons-Alfort",
+    "adresse": "99 Avenue Du Gl Leclerc",
+    "cp": "94700",
+    "latitude": 48.80694774210001,
+    "longitude": 2.43827166369,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.709,
+        "maj": "2025-05-23 23:55:28"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.869,
+        "maj": "2025-05-23 23:55:29"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.809,
+        "maj": "2025-05-23 23:55:29"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.909,
+        "maj": "2025-05-23 23:55:29"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Lavage manuel",
+      "Vente de gaz domestique (Butane, Propane)"
+    ],
+    "distance_km": 9.67
+  },
+  {
+    "id": 75008010,
+    "ville": "Paris",
+    "adresse": "Face 35 Bld Malesherbes",
+    "cp": "75008",
+    "latitude": 48.873,
+    "longitude": 2.311,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.704,
+        "maj": "2025-06-03 06:00:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.811,
+        "maj": "2025-06-03 06:00:00"
+      }
+    ],
+    "services": [],
+    "distance_km": 8.56
+  },
+  {
+    "id": 94600003,
+    "ville": "Thiais",
+    "adresse": "14 Boulevard De Stalingrad",
+    "cp": "94600",
+    "latitude": 48.768,
+    "longitude": 2.403,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.539,
+        "maj": "2025-06-03 06:36:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.705,
+        "maj": "2025-06-03 06:36:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.779,
+        "maj": "2025-06-03 06:36:00"
+      }
+    ],
+    "services": [],
+    "distance_km": 7.68
+  },
+  {
+    "id": 92160006,
+    "ville": "Antony",
+    "adresse": "100 Av Du President Kennedy",
+    "cp": "92160",
+    "latitude": 48.738,
+    "longitude": 2.295,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.566,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.681,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.769,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Vente de gaz domestique (Butane, Propane)"
+    ],
+    "distance_km": 6.53
+  },
+  {
+    "id": 94651002,
+    "ville": "Thiais",
+    "adresse": "334 Thais Sud C.C Belle Epine",
+    "cp": "94651",
+    "latitude": 48.755,
+    "longitude": 2.375,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.689,
+        "maj": "2025-05-31 11:16:30"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.789,
+        "maj": "2025-05-31 11:16:29"
+      },
+      {
+        "nom": "GPLc",
+        "valeur": 0.979,
+        "maj": "2025-05-31 11:16:30"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.799,
+        "maj": "2025-05-31 11:16:30"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.969,
+        "maj": "2025-05-31 11:16:30"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Piste poids lourds",
+      "Lavage automatique",
+      "Lavage manuel",
+      "Services réparation / entretien",
+      "Vente de gaz domestique (Butane, Propane)",
+      "DAB (Distributeur automatique de billets)"
+    ],
+    "distance_km": 6.74
+  },
+  {
+    "id": 92140015,
+    "ville": "Clamart",
+    "adresse": "6 Avenue Claude Trebignaud",
+    "cp": "92140",
+    "latitude": 48.793,
+    "longitude": 2.253,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.596,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.782,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "GPLc",
+        "valeur": 1.692,
+        "maj": "2025-05-12 12:25:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.712,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.789,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Wifi",
+      "DAB (Distributeur automatique de billets)"
+    ],
+    "distance_km": 4.03
+  },
+  {
+    "id": 75008009,
+    "ville": "Paris",
+    "adresse": "Face 55 Av. Georges V - Parkg Ge",
+    "cp": "75008",
+    "latitude": 48.872,
+    "longitude": 2.301,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.709,
+        "maj": "2025-06-02 21:00:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.811,
+        "maj": "2025-06-02 21:00:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.921,
+        "maj": "2025-06-02 21:00:00"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage manuel"
+    ],
+    "distance_km": 8.45
+  },
+  {
+    "id": 92220009,
+    "ville": "Bagneux",
+    "adresse": "12 Avenue Du Général De Gaulle",
+    "cp": "92220",
+    "latitude": 48.797,
+    "longitude": 2.298,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.699,
+        "maj": "2025-05-31 12:15:49"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.799,
+        "maj": "2025-05-31 12:15:50"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.929,
+        "maj": "2025-05-31 12:15:49"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Vente de gaz domestique (Butane, Propane)"
+    ],
+    "distance_km": 0.71
+  },
+  {
+    "id": 75015003,
+    "ville": "Paris",
+    "adresse": "151 Rue De La Convention",
+    "cp": "75015",
+    "latitude": 48.839,
+    "longitude": 2.292,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.719,
+        "maj": "2025-06-03 06:22:01"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.829,
+        "maj": "2025-06-03 06:22:02"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.819,
+        "maj": "2025-06-03 06:22:01"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.969,
+        "maj": "2025-06-03 06:22:02"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Vente d'additifs carburants"
+    ],
+    "distance_km": 4.91
+  },
+  {
+    "id": 75016001,
+    "ville": "Paris",
+    "adresse": "1 Avenue Du Général Sarrail",
+    "cp": "75016",
+    "latitude": 48.847,
+    "longitude": 2.256,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.604,
+        "maj": "2025-05-29 06:26:10"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.722,
+        "maj": "2025-05-30 06:31:20"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.798,
+        "maj": "2025-05-30 06:31:20"
+      }
+    ],
+    "services": "Bornes électriques",
+    "distance_km": 6.81
+  },
+  {
+    "id": 94150005,
+    "ville": "Rungis",
+    "adresse": "Autoroute A106 - Aire De Rungis Delta Pondo",
+    "cp": "94150",
+    "latitude": 48.7575828377,
+    "longitude": 2.3483460055500003,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.699,
+        "maj": "2025-06-03 09:00:00"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.789,
+        "maj": "2025-06-03 09:00:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.809,
+        "maj": "2025-06-03 09:00:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.899,
+        "maj": "2025-06-03 09:00:00"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Restauration à emporter",
+      "Restauration sur place",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage manuel"
+    ],
+    "distance_km": 5.23
+  },
+  {
+    "id": 92210009,
+    "ville": "Saint-Cloud",
+    "adresse": "65 Quai Marcel Dassault",
+    "cp": "92210",
+    "latitude": 48.855,
+    "longitude": 2.223,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.596,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.782,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "GPLc",
+        "valeur": 0.969,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.712,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.789,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Station de gonflage",
+      "Lavage automatique",
+      "Lavage manuel",
+      "Wifi",
+      "Automate CB 24/24",
+      "DAB (Distributeur automatique de billets)"
+    ],
+    "distance_km": 9.03
+  },
+  {
+    "id": 92240010,
+    "ville": "Malakoff",
+    "adresse": "76 Avenue Pierre Larousse",
+    "cp": "92240",
+    "latitude": 48.82,
+    "longitude": 2.305,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.709,
+        "maj": "2025-05-27 15:05:49"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.799,
+        "maj": "2025-05-27 15:05:49"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.809,
+        "maj": "2025-05-27 15:05:49"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.939,
+        "maj": "2025-05-27 15:05:50"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Vente de gaz domestique (Butane, Propane)"
+    ],
+    "distance_km": 2.66
+  },
+  {
+    "id": 75015030,
+    "ville": "Paris",
+    "adresse": "1 Quater Boulevard Victor",
+    "cp": "75015",
+    "latitude": 48.834,
+    "longitude": 2.285,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.679,
+        "maj": "2025-06-03 06:21:49"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.789,
+        "maj": "2025-06-03 06:21:49"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.939,
+        "maj": "2025-06-03 06:21:49"
+      }
+    ],
+    "services": [
+      "Station de gonflage",
+      "Carburant additivé",
+      "Bornes électriques",
+      "Automate CB 24/24"
+    ],
+    "distance_km": 4.53
+  },
+  {
+    "id": 92100016,
+    "ville": "Boulogne-Billancourt",
+    "adresse": "263 Boulevard Jean Jaures",
+    "cp": "92100",
+    "latitude": 48.826,
+    "longitude": 2.248,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.689,
+        "maj": "2025-06-03 06:23:56"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.799,
+        "maj": "2025-06-03 06:23:56"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.979,
+        "maj": "2025-06-03 06:23:56"
+      }
+    ],
+    "services": [
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Automate CB 24/24"
+    ],
+    "distance_km": 5.5
+  },
+  {
+    "id": 75008006,
+    "ville": "Paris",
+    "adresse": "164 Boulevard Haussmann",
+    "cp": "75008",
+    "latitude": 48.875,
+    "longitude": 2.31,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.71,
+        "maj": "2025-05-27 07:00:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.82,
+        "maj": "2025-04-15 07:00:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.9,
+        "maj": "2025-05-27 07:00:00"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique non alimentaire",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Services réparation / entretien"
+    ],
+    "distance_km": 8.78
+  },
+  {
+    "id": 75012023,
+    "ville": "Paris",
+    "adresse": "32 Rue De Reuilly",
+    "cp": "75012",
+    "latitude": 48.84655403,
+    "longitude": 2.38741851,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.729,
+        "maj": "2025-05-24 07:00:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.829,
+        "maj": "2025-05-13 07:00:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.899,
+        "maj": "2025-05-24 07:00:00"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Services réparation / entretien",
+      "Vente de gaz domestique (Butane, Propane)"
+    ],
+    "distance_km": 8.11
+  },
+  {
+    "id": 92380007,
+    "ville": "Garches",
+    "adresse": "173 179 Rue De La Porte Jaune",
+    "cp": "92380",
+    "latitude": 48.851,
+    "longitude": 2.204,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.629,
+        "maj": "2025-05-27 14:15:50"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.749,
+        "maj": "2025-05-27 14:15:49"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.899,
+        "maj": "2025-05-27 14:15:49"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Vente de gaz domestique (Butane, Propane)",
+      "Vente d'additifs carburants"
+    ],
+    "distance_km": 9.75
+  },
+  {
+    "id": 94110005,
+    "ville": "Arcueil",
+    "adresse": "89 Av A. Briand",
+    "cp": "94110",
+    "latitude": 48.804,
+    "longitude": 2.325,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.709,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.811,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Lavage manuel",
+      "Vente de gaz domestique (Butane, Propane)",
+      "DAB (Distributeur automatique de billets)"
+    ],
+    "distance_km": 1.55
+  },
+  {
+    "id": 75015011,
+    "ville": "Paris",
+    "adresse": "19 Bd Des Freres Voisins",
+    "cp": "75015",
+    "latitude": 48.828,
+    "longitude": 2.272,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.596,
+        "maj": "2025-06-03 06:36:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.702,
+        "maj": "2025-06-03 06:36:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.789,
+        "maj": "2025-06-03 06:36:00"
+      }
+    ],
+    "services": [],
+    "distance_km": 4.41
+  },
+  {
+    "id": 75015026,
+    "ville": "Paris",
+    "adresse": "Quai D'Issy Les Moulineaux",
+    "cp": "75015",
+    "latitude": 48.835,
+    "longitude": 2.266,
+    "prix": [
+      {
+        "nom": "E85",
+        "valeur": 0.789,
+        "maj": "2025-06-03 09:00:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.811,
+        "maj": "2025-06-03 09:00:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.921,
+        "maj": "2025-06-03 09:00:00"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Piste poids lourds",
+      "Lavage automatique",
+      "Bornes électriques",
+      "Wifi"
+    ],
+    "distance_km": 5.3
+  },
+  {
+    "id": 94594003,
+    "ville": "Chevilly-Larue",
+    "adresse": "Rue Du Viaduc",
+    "cp": "94594",
+    "latitude": 48.761,
+    "longitude": 2.349,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.709,
+        "maj": "2025-05-27 13:24:49"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.649,
+        "maj": "2025-04-07 14:23:49"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.929,
+        "maj": "2025-05-27 13:24:49"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Vente de fioul domestique",
+      "Station de gonflage",
+      "Piste poids lourds",
+      "Lavage automatique",
+      "Lavage manuel",
+      "Vente de gaz domestique (Butane, Propane)"
+    ],
+    "distance_km": 4.95
+  },
+  {
+    "id": 92130005,
+    "ville": "Issy-Les-Moulineaux",
+    "adresse": "115 Avenue Du Général De Gaulle",
+    "cp": "92130",
+    "latitude": 48.818,
+    "longitude": 2.277,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.596,
+        "maj": "2025-06-03 06:36:00"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.784,
+        "maj": "2025-06-03 06:36:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.712,
+        "maj": "2025-06-03 06:36:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.789,
+        "maj": "2025-06-03 06:36:00"
+      }
+    ],
+    "services": [],
+    "distance_km": 3.31
+  },
+  {
+    "id": 94140004,
+    "ville": "Alfortville",
+    "adresse": "43 Quai Auguste Blanqui",
+    "cp": "94140",
+    "latitude": 48.8043,
+    "longitude": 2.41212,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.691,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.811,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.921,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Piste poids lourds",
+      "Lavage automatique",
+      "DAB (Distributeur automatique de billets)"
+    ],
+    "distance_km": 7.73
+  },
+  {
+    "id": 91300022,
+    "ville": "Massy",
+    "adresse": "Voie Express Cd 117",
+    "cp": "91300",
+    "latitude": 48.731,
+    "longitude": 2.242,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.599,
+        "maj": "2025-06-03 06:25:56"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.779,
+        "maj": "2025-06-03 06:25:56"
+      },
+      {
+        "nom": "GPLc",
+        "valeur": 1.079,
+        "maj": "2025-06-03 06:25:56"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.709,
+        "maj": "2025-06-03 06:25:56"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.839,
+        "maj": "2025-06-03 06:25:56"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Restauration à emporter",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Piste poids lourds",
+      "Lavage automatique",
+      "Lavage manuel",
+      "Vente de gaz domestique (Butane, Propane)",
+      "Vente d'additifs carburants",
+      "Automate CB 24/24"
+    ],
+    "distance_km": 8.7
+  },
+  {
+    "id": 75012010,
+    "ville": "Paris",
+    "adresse": "36 Quai De La Rapée",
+    "cp": "75012",
+    "latitude": 48.842,
+    "longitude": 2.373,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.619,
+        "maj": "2025-05-24 11:11:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.719,
+        "maj": "2025-05-24 11:11:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.829,
+        "maj": "2025-05-24 11:11:00"
+      }
+    ],
+    "services": [],
+    "distance_km": 7.01
+  },
+  {
+    "id": 91380011,
+    "ville": "Chilly-Mazarin",
+    "adresse": "Rue De Longjumeau Rue Ampere",
+    "cp": "91380",
+    "latitude": 48.713,
+    "longitude": 2.298,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.579,
+        "maj": "2025-05-31 11:21:09"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.689,
+        "maj": "2025-05-31 11:21:09"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.819,
+        "maj": "2025-05-31 11:21:09"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Restauration à emporter",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Piste poids lourds",
+      "Lavage automatique",
+      "Vente de gaz domestique (Butane, Propane)"
+    ],
+    "distance_km": 9.27
+  },
+  {
+    "id": 92160001,
+    "ville": "Antony",
+    "adresse": "134 Rue Pascal",
+    "cp": "92160",
+    "latitude": 48.74,
+    "longitude": 2.315,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.576,
+        "maj": "2025-06-02 08:57:21"
+      },
+      {
+        "nom": "SP95",
+        "valeur": 1.731,
+        "maj": "2025-06-02 08:57:21"
+      },
+      {
+        "nom": "GPLc",
+        "valeur": 1.1,
+        "maj": "2025-05-20 10:32:09"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.689,
+        "maj": "2025-06-02 08:57:21"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.769,
+        "maj": "2025-06-02 08:57:21"
+      }
+    ],
+    "services": [
+      "Relais colis",
+      "Vente de gaz domestique (Butane, Propane)",
+      "Automate CB 24/24"
+    ],
+    "distance_km": 6.26
+  },
+  {
+    "id": 75015025,
+    "ville": "Paris",
+    "adresse": "34 Boulevard De Grenelle",
+    "cp": "75015",
+    "latitude": 48.852,
+    "longitude": 2.29,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.709,
+        "maj": "2025-06-03 09:00:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.909,
+        "maj": "2025-06-03 09:00:00"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Lavage manuel",
+      "Wifi"
+    ],
+    "distance_km": 6.35
+  },
+  {
+    "id": 75012020,
+    "ville": "Paris",
+    "adresse": "238 Rue De Charenton",
+    "cp": "75012",
+    "latitude": 48.83905,
+    "longitude": 2.38906,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.709,
+        "maj": "2025-06-03 06:00:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.811,
+        "maj": "2025-06-03 06:00:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.921,
+        "maj": "2025-06-03 06:00:00"
+      }
+    ],
+    "services": [],
+    "distance_km": 7.66
+  },
+  {
+    "id": 75013022,
+    "ville": "Paris",
+    "adresse": "27 Avenue De La Porte D'Italie",
+    "cp": "75013",
+    "latitude": 48.817,
+    "longitude": 2.36,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.699,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.789,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.809,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.919,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Carburant additivé",
+      "Piste poids lourds",
+      "DAB (Distributeur automatique de billets)"
+    ],
+    "distance_km": 4.5
+  },
+  {
+    "id": 92320005,
+    "ville": "Châtillon",
+    "adresse": "40 Rue De Fontenay",
+    "cp": "92320",
+    "latitude": 48.797,
+    "longitude": 2.286,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.609,
+        "maj": "2025-06-03 06:23:31"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.729,
+        "maj": "2025-06-03 06:23:32"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.859,
+        "maj": "2025-06-03 06:23:31"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Vente de gaz domestique (Butane, Propane)"
+    ],
+    "distance_km": 1.59
+  },
+  {
+    "id": 92340002,
+    "ville": "Bourg-La-Reine",
+    "adresse": "18 Bd Marechal Joffre",
+    "cp": "92340",
+    "latitude": 48.786,
+    "longitude": 2.317,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.699,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.809,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.919,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Vente de gaz domestique (Butane, Propane)",
+      "Vente d'additifs carburants",
+      "Wifi"
+    ],
+    "distance_km": 1.32
+  },
+  {
+    "id": 92220010,
+    "ville": "Sceaux",
+    "adresse": "98T Av De Bourg La Reine",
+    "cp": "92220",
+    "latitude": 48.785,
+    "longitude": 2.305,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.689,
+        "maj": "2025-06-02 16:54:09"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.789,
+        "maj": "2025-06-02 16:54:10"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.799,
+        "maj": "2025-06-02 16:54:10"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.999,
+        "maj": "2025-06-02 16:54:10"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Vente de gaz domestique (Butane, Propane)"
+    ],
+    "distance_km": 1.25
+  },
+  {
+    "id": 94600005,
+    "ville": "Choisy-Le-Roi",
+    "adresse": "36 Avenue De Lugo",
+    "cp": "94600",
+    "latitude": 48.772,
+    "longitude": 2.409,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.539,
+        "maj": "2025-05-30 09:16:08"
+      },
+      {
+        "nom": "SP95",
+        "valeur": 1.689,
+        "maj": "2025-05-30 09:16:09"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.639,
+        "maj": "2025-05-30 09:16:09"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.719,
+        "maj": "2025-05-30 09:16:09"
+      }
+    ],
+    "services": [
+      "Laverie",
+      "Relais colis",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Piste poids lourds",
+      "Lavage automatique",
+      "Vente de gaz domestique (Butane, Propane)",
+      "Automate CB 24/24",
+      "DAB (Distributeur automatique de billets)"
+    ],
+    "distance_km": 7.92
+  },
+  {
+    "id": 94800008,
+    "ville": "Villejuif",
+    "adresse": "60 Av De Stalingrad",
+    "cp": "94800",
+    "latitude": 48.785417567889,
+    "longitude": 2.366599755323,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.589,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.781,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.709,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.781,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [],
+    "distance_km": 4.49
+  },
+  {
+    "id": 75011003,
+    "ville": "Paris",
+    "adresse": "175 Avenue Ledru-Rollin",
+    "cp": "75011",
+    "latitude": 48.85667,
+    "longitude": 2.3791,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.99,
+        "maj": "2023-12-18 19:58:44"
+      },
+      {
+        "nom": "SP95",
+        "valeur": 1.99,
+        "maj": "2023-12-20 19:55:00"
+      }
+    ],
+    "services": "Vente de gaz domestique (Butane, Propane)",
+    "distance_km": 8.54
+  },
+  {
+    "id": 75014008,
+    "ville": "Paris",
+    "adresse": "253 Boulevard Raspail",
+    "cp": "75014",
+    "latitude": 48.838,
+    "longitude": 2.331,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 2.15,
+        "maj": "2025-05-14 14:56:10"
+      },
+      {
+        "nom": "SP95",
+        "valeur": 2.45,
+        "maj": "2025-05-14 14:56:10"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 2.47,
+        "maj": "2025-05-14 14:56:11"
+      }
+    ],
+    "services": [
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage manuel",
+      "Services réparation / entretien"
+    ],
+    "distance_km": 4.97
+  },
+  {
+    "id": 92200006,
+    "ville": "Neuilly-Sur-Seine",
+    "adresse": "31 Avenue Du Roule",
+    "cp": "92200",
+    "latitude": 48.882,
+    "longitude": 2.28,
+    "prix": [],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage manuel"
+    ],
+    "distance_km": 9.77
+  },
+  {
+    "id": 92290007,
+    "ville": "Châtenay-Malabry",
+    "adresse": "151 Avenue Division Leclerc",
+    "cp": "92290",
+    "latitude": 48.763,
+    "longitude": 2.278,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.699,
+        "maj": "2025-06-03 06:23:50"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.799,
+        "maj": "2025-06-03 06:23:50"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.809,
+        "maj": "2025-06-03 06:23:49"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.989,
+        "maj": "2025-06-03 06:23:49"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Lavage automatique",
+      "Services réparation / entretien",
+      "Vente de gaz domestique (Butane, Propane)",
+      "Automate CB 24/24"
+    ],
+    "distance_km": 4.28
+  },
+  {
+    "id": 78140009,
+    "ville": "Vélizy-Villacoublay",
+    "adresse": "Aire Du Val De Grace",
+    "cp": "78140",
+    "latitude": 48.771104975942,
+    "longitude": 2.2275512428149,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.763,
+        "maj": "2025-06-02 13:00:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.912,
+        "maj": "2025-06-02 13:00:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 2.062,
+        "maj": "2025-06-02 13:00:00"
+      }
+    ],
+    "services": [
+      "Toilettes publiques",
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Restauration à emporter",
+      "Restauration sur place",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Piste poids lourds"
+    ],
+    "distance_km": 6.51
+  },
+  {
+    "id": 92242003,
+    "ville": "Malakoff",
+    "adresse": "12 Avenue Pierre Brossolette",
+    "cp": "92242",
+    "latitude": 48.821,
+    "longitude": 2.312,
+    "prix": [
+      {
+        "nom": "E10",
+        "valeur": 1.741,
+        "maj": "2024-11-19 00:01:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.851,
+        "maj": "2024-11-19 00:01:00"
+      }
+    ],
+    "services": [],
+    "distance_km": 2.79
+  },
+  {
+    "id": 92170002,
+    "ville": "Vanves",
+    "adresse": "59 Rue Jean Bleuzen",
+    "cp": "92170",
+    "latitude": 48.82274,
+    "longitude": 2.29497,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.709,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E85",
+        "valeur": 0.789,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.811,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.921,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [],
+    "distance_km": 3.1
+  },
+  {
+    "id": 92210003,
+    "ville": "Saint-Cloud",
+    "adresse": "24 Rue Pasteur",
+    "cp": "92210",
+    "latitude": 48.842,
+    "longitude": 2.202,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.605,
+        "maj": "2025-06-03 06:35:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.721,
+        "maj": "2025-06-03 06:35:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.798,
+        "maj": "2025-06-03 06:35:00"
+      }
+    ],
+    "services": [],
+    "distance_km": 9.28
+  },
+  {
+    "id": 94310004,
+    "ville": "Orly",
+    "adresse": "106 Avenue La Victoire",
+    "cp": "94310",
+    "latitude": 48.74588,
+    "longitude": 2.38308,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.572,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "GPLc",
+        "valeur": 0.979,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.696,
+        "maj": "2025-06-03 00:01:00"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.772,
+        "maj": "2025-06-03 00:01:00"
+      }
+    ],
+    "services": [
+      "Boutique alimentaire",
+      "Boutique non alimentaire",
+      "Restauration à emporter",
+      "Vente de fioul domestique",
+      "Station de gonflage",
+      "Carburant additivé",
+      "Piste poids lourds",
+      "Lavage automatique",
+      "Vente de gaz domestique (Butane, Propane)",
+      "DAB (Distributeur automatique de billets)"
+    ],
+    "distance_km": 7.87
+  },
+  {
+    "id": 94160001,
+    "ville": "Paris",
+    "adresse": "186 Avenue Gallieni",
+    "cp": "94160",
+    "latitude": 48.847,
+    "longitude": 2.416,
+    "prix": [
+      {
+        "nom": "Gazole",
+        "valeur": 1.799,
+        "maj": "2025-05-24 11:39:18"
+      },
+      {
+        "nom": "E10",
+        "valeur": 1.919,
+        "maj": "2025-05-24 11:39:19"
+      },
+      {
+        "nom": "SP98",
+        "valeur": 1.969,
+        "maj": "2025-05-24 11:39:19"
+      }
+    ],
+    "services": [
+      "Station de gonflage",
+      "Carburant additivé",
+      "Location de véhicule",
+      "Services réparation / entretien",
+      "Vente de gaz domestique (Butane, Propane)"
+    ],
+    "distance_km": 9.77
+  }
+]

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Stations Carburant</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <style>
+      body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+      }
+      #map {
+          height: 400px;
+          margin-top: 20px;
+      }
+      input, button {
+          padding: 10px;
+          margin: 5px;
+      }
+
+    </style>
+</head>
+<body>
+    <h1>🔎 Rechercher des stations</h1>
+    <input type="text" id="ville" placeholder="Entrez une ville" />
+    <button onclick="rechercher()">Rechercher</button>
+    <div id="map"></div>
+    <ul id="resultats"></ul>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script>
+      let map = L.map('map').setView([48.8566, 2.3522], 11); // Vue sur Paris par défaut
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© OpenStreetMap'
+}).addTo(map);
+
+function rechercher() {
+    const ville = document.getElementById("ville").value;
+    fetch(`http://127.0.0.1:5000//api/stations?ville=${ville}`)
+        .then(response => response.json())
+        .then(data => {
+            document.getElementById("resultats").innerHTML = "";
+            map.eachLayer((layer) => {
+                if (layer instanceof L.Marker) {
+                    map.removeLayer(layer);
+                }
+            });
+
+            if (data.length > 0) {
+                let bounds = [];
+
+                data.forEach(station => {
+                    const li = document.createElement("li");
+                    li.innerHTML = `<strong>${station.adresse}</strong><br>${station.prix.map(p => `${p.nom}: ${p.valeur} €/L`).join("<br>")}`;
+                    document.getElementById("resultats").appendChild(li);
+
+                    const marker = L.marker([station.latitude, station.longitude])
+                        .addTo(map)
+                        .bindPopup(`<b>${station.adresse}</b><br>${station.ville}`);
+                    bounds.push([station.latitude, station.longitude]);
+                });
+
+                map.fitBounds(bounds);
+            } else {
+                document.getElementById("resultats").innerHTML = "❌ Aucune station trouvée.";
+            }
+        });
+}
+
+    </script>
+</body>
+</html>
